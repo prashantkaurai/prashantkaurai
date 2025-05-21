@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @prashantkaurai
+<h1 align="center">Hi ' I Am PRASHANT KAURAI</h1>
+<h3 align="center">MERN STACK DEVELOPER</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashant-kaurai-31b354235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-kaurai-31b354235/" height="30" width="40" /></a>
+</p>
+
 - 👀 I would like to further expand my skills in the field of web development.
 - 🌱 I am learning javascript, mongodb, React, and Node.js..
 - 💞️ I’m looking to collaborate on realtime web application.
